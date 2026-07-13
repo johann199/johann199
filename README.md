@@ -29,7 +29,7 @@ Aplicación de transporte corporativo con frontend, backend y Supabase como capa
 
  **Repo:** [sintrap-uv/sintrap](https://github.com/sintrap-uv/sintrap)
 
-#### 🐾 MisMascotasApp
+####  MisMascotasApp
 Aplicación móvil (React Native/Expo) con backend en Django + django-ninja (rutas estilo FastAPI sobre el ORM de Django) e integración con Firebase.
 - Backend Django con django-ninja para exponer API tipo FastAPI
 - Autenticación/almacenamiento vía Firebase
@@ -52,7 +52,7 @@ Plataforma ERP con frontend basado en Astro/TypeScript y plantilla AdminLTE, con
 ###  Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johann199&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats-psi-black.vercel.app/api?username=johann199&show_icons=true&theme=default" />
 </p>
 
 ---
