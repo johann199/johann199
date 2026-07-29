@@ -3,7 +3,6 @@
 <h3 align="center">Full Stack Developer | Python · Django · FastAPI · React · React Native</h3>
 
 <p align="center">
-  Estudiante de Ingeniería de Sistemas en la Universidad del Valle (Colombia).<br>
   Enfocado en construir aplicaciones web y móviles robustas, y actualmente en búsqueda activa de oportunidades remotas/híbridas.
 </p>
 
